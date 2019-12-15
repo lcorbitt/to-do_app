@@ -1,0 +1,16 @@
+h1 {
+	background: #2980b9;
+}
+
+#container {
+	box-shadow: 0 0 3px rgba(0, 0, 0, 0.5);
+	width: 360px;
+	margin: 100px auto;
+	background: #f7f7f7;
+	border-radius: 5%;
+}
+
+.completed {
+	color: gray;
+	text-decoration: line-through;
+}
